@@ -18,12 +18,18 @@
   </header>
   <div id="content" class="site-content">
     <div class="container">
+<main>
+  <article>
+      <div class="entry-pre-header">
+        <div class="entry-meta"></div>
+      </div>
       <header class="entry-header">
         <h1 class="entry-title">Mote001_{structure/keywords}_Lv0</h1>
       </header>
       <div class="entry-content"></div>
       <footer class="entry-footer"></footer>
       <div id="comment"></div>
+      </article>
       <nav class="navigation" role="navigation">
         <h2 class="screen-reader-text">All Articles</h2>
         <div class="nav-links">
@@ -39,6 +45,7 @@
           </div>
         </div>
       </nav>
+</main>
     </div>
   </div>
 </body>
